@@ -1,6 +1,6 @@
 # Data_Visualization_Project
 ## Introduction
-The projrct is aim to help the BootLoader to determine user characteristics on specific project types, perform analysis on user’s preference on projects for notification delivery and predict the donation amount. 
+The project is aim to help the BootLoader to determine user characteristics on specific project types, perform analysis on user’s preference on projects for notification delivery and predict the donation amount. 
 
 BootLoader is a crowdfunding mobile app that helps people crowdfund their creative projects. Anyone with an idea, dream, and 2-minute video can post their project on BootLoader. Others then donate money to the project to help bring it to fruition. We were able to track user’s interactions with the mobile app and have been collecting analytics data on how the users view and fund projects. 
 
